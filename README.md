@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript and React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nitish-1611](https://github.com/Nitish-1611)
+- 👨‍💻 All of my projects are available at [https://github.com/Nitish-1611](https://github.com/Nitish-1611?tab=repositories)
 
 - 💬 Ask me about **Frontend Development**
 
