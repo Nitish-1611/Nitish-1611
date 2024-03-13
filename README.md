@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oU9GO1TBEE_YT5YaIv254YUkvX9oYiIe/edit?usp=sharing&ouid=101434592135504014846&rtpof=true&sd=true](https://docs.google.com/document/d/1oU9GO1TBEE_YT5YaIv254YUkvX9oYiIe/edit?usp=sharing&ouid=101434592135504014846&rtpof=true&sd=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
